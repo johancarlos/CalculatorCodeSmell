@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZnJa5mUIUBeKnBAgTyGfvlemZVrUjrcv3xWwq7ytsb4pH8AyAmoKDQkQjHJAajaQkoLvXcy0ESxEZE8TyD5l0w==",
+  "dgSpecHash": "U0sADLFsC1JyLQY1E/UapEdzGY+G3rzn6Lw4i1Jijj/+TSbXG5QGhP9/EKGEvj8C/aCc/i2XD6lKzxAVvNX74w==",
   "success": true,
-  "projectFilePath": "/Users/kairos/Projects/Calculator/Calculator/Calculator.csproj",
+  "projectFilePath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Refactorizacion codifgo\\CalculatorCodeSmell\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

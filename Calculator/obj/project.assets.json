@@ -8,24 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/kairos/.nuget/packages/": {}
+    "C:\\Users\\Mau\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kairos/Projects/Calculator/Calculator/Calculator.csproj",
+      "projectUniqueName": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Refactorizacion codifgo\\CalculatorCodeSmell\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "/Users/kairos/Projects/Calculator/Calculator/Calculator.csproj",
-      "packagesPath": "/Users/kairos/.nuget/packages/",
-      "outputPath": "/Users/kairos/Projects/Calculator/Calculator/obj/",
+      "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Refactorizacion codifgo\\CalculatorCodeSmell\\Calculator\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\Mau\\.nuget\\packages\\",
+      "outputPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Refactorizacion codifgo\\CalculatorCodeSmell\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kairos/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Mau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

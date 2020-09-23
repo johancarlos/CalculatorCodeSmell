@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/kairos/.dotnet/store/|arch|/|tfm|",
-      "/Users/kairos/.nuget/packages"
+      "C:\\Users\\Mau\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mau\\.nuget\\packages"
     ]
   }
 }
